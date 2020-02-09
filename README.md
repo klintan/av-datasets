@@ -2,9 +2,9 @@
 
 There are a lot of collections of datasets, but unfortunately the majority of these datasets are not truly FREE to use. They are only for research purposes. 
 
-Here we'll list all datasets that have an MIT-type license, aka they are allowed to be used for both research, hobby and commerical purposes.
+Here we'll list all datasets that have an MIT-type license, aka they are allowed to be used for both research, hobby and commercial purposes.
 
-Data are mostly considered one of the most valuable things for a robotic company, however I think even using smaller datasets as a base for fine-tuning or comparing to without ever worrying about any license issues are worth pursuing. Truly open knowledge and data is the future. 
+Data is mostly considered one of the most valuable things for a robotic company, however I think even using smaller datasets as a baseline for fine-tuning or comparing to without ever worrying about any license issues are worth pursuing. Truly open knowledge and data is the future. 
 
 
 ### Lidar

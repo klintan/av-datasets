@@ -4,7 +4,7 @@ There are a lot of collections of datasets, but unfortunately the majority of th
 
 Here we'll list all datasets that have an MIT-type license, aka they are allowed to be used for both research, hobby and commercial purposes.
 
-Data is mostly considered one of the most valuable things for a robotic company, however I think even using smaller datasets as a baseline for fine-tuning or comparing to without ever worrying about any license issues are worth pursuing. Truly open knowledge and data is the future. 
+Data is mostly considered one of the most valuable things for a robotic company, however I think even using smaller datasets as a baseline for further fine-tuning or comparing to without ever worrying about any license issues are worth pursuing. Truly open knowledge and data is the future. 
 
 
 ### Lidar
@@ -32,7 +32,7 @@ Data is mostly considered one of the most valuable things for a robotic company,
 |---|---|---|---|---|
 |  Udacity | MIT  |  None |  IMU/GPS/LIDAR |  https://github.com/udacity/self-driving-car/tree/master/datasets |
 |  Velodyne SLAM KIT |  CC4.0 [2] | None  |  LIDAR/Stereo camera |  https://www.mrt.kit.edu/z/publ/download/velodyneslam/dataset.html |
-|  NCLT Dataset |  Open Database License | Camera/IMU/GPS/LIDAR/Wheel odometry  |   |  http://robots.engin.umich.edu/nclt/ |
+|  NCLT Dataset |  Open Database License |   |  Camera/IMU/GPS/LIDAR/Wheel odometry |  http://robots.engin.umich.edu/nclt/ |
 |   |   |   |   |   |
 
 

@@ -23,6 +23,9 @@ Data is mostly considered one of the most valuable things for a robotic company,
 | GM-ATCI Rear-view pedestrians  | CC4.0/MIT [1] |   |   |  https://sites.google.com/site/rearviewpeds1/ |
 |  SullyChen AutoPilot Dataset |  MIT | Steering angle  |   |  https://github.com/SullyChen/Autopilot-TensorFlow |
 | COCO  | CC4.0  |  Segmentation |   | http://cocodataset.org/  |
+| Self driving car data | CC0 | None | | https://www.kaggle.com/ajaysh/self-driving-car | 
+| CSAIL LabelMe dataset | CC0 (with attribution) | Segmentation | |http://labelme2.csail.mit.edu/Release3.0/browserTools/php/publications.php | 
+
 
 [1] Confirmed with GM per email. No responsibility whatsoever from GM. So something similar to MIT
 

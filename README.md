@@ -25,6 +25,8 @@ Data is mostly considered one of the most valuable things for a robotic company,
 | Self driving car data | CC0 | None | | https://www.kaggle.com/ajaysh/self-driving-car | 
 | CSAIL LabelMe dataset | CC0 (with attribution) | Segmentation | |http://labelme2.csail.mit.edu/Release3.0/browserTools/php/publications.php |
 | Udacity (Roboflow cleaned)| MIT | Bounding boxes | | https://public.roboflow.ai/object-detection/self-driving-car |
+| NGSIM Vehicle Trajectories and Supporting Data| CC4.0 | Vehicle trajectory data | | https://data.transportation.gov/Automobiles/Next-Generation-Simulation-NGSIM-Vehicle-Trajector/8ect-6jqj
+ |
 
 
 [1] Confirmed with GM per email. No responsibility whatsoever from GM. So something similar to MIT
@@ -47,4 +49,5 @@ you are required to cite the article "Velodyne SLAM" of Moosmann et al
 |---|---|---|---|---|
 |  Semantic Segmentation for Self Driving Cars | CC0  | semantic segmenation  |   | https://www.kaggle.com/kumaresanmanickavelu/lyft-udacity-challenge  |
 |   |   |   |   |   |
+
 

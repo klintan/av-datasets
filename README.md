@@ -38,8 +38,9 @@ Data is mostly considered one of the most valuable things for a robotic company,
 |  Udacity | MIT  |  None |  IMU/GPS/LIDAR |  https://github.com/udacity/self-driving-car/tree/master/datasets |
 |  Velodyne SLAM KIT |  CC4.0 [2] | None  |  LIDAR/Stereo camera |  https://www.mrt.kit.edu/z/publ/download/velodyneslam/dataset.html |
 |  NCLT Dataset |  Open Database License |   |  Camera/IMU/GPS/LIDAR/Wheel odometry |  http://robots.engin.umich.edu/nclt/ |
-|   |   |   |   |   |
-
+|  Brno Urban Dataset | MIT  |  None |  Camera/Thermal/RTK/GPS/LIDAR/IMU  | https://github.com/Robotics-BUT/Brno-Urban-Dataset  |
+|  Audi Autonomous Driving Dataset (A2D2) | CC BY-ND 4.0 | 3D bounding boxes/Semantic Segmentation | Camera/LIDAR | https://www.a2d2.audi/a2d2/en.html | 
+|  comma2k19| MIT | None | Camera/IMU/GPS | https://github.com/commaai/comma2k19 | 
 
 [2] This data can be freely used with one restriction: In case it is used for scientific publication
 you are required to cite the article "Velodyne SLAM" of Moosmann et al
@@ -50,4 +51,7 @@ you are required to cite the article "Velodyne SLAM" of Moosmann et al
 |  Semantic Segmentation for Self Driving Cars | CC0  | semantic segmenation  |   | https://www.kaggle.com/kumaresanmanickavelu/lyft-udacity-challenge  |
 |   |   |   |   |   |
 
+## References
+
+https://www.datasetlist.com/
 

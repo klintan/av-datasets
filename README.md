@@ -42,7 +42,7 @@ Data is mostly considered one of the most valuable things for a robotic company,
 |  Audi Autonomous Driving Dataset (A2D2) | CC BY-ND 4.0 | 3D bounding boxes/Semantic Segmentation | Camera/LIDAR | https://www.a2d2.audi/ | 
 |  comma2k19| MIT | None | Camera/IMU/GPS | https://github.com/commaai/comma2k19 |
 | PedX | MIT | 3D segmentation/2D labels | Camera/LIDAR | http://pedx.io/ |
-
+| Scale AI PandaSet | CC4.0 | 3D Bounding boxes/PointCloud annotations | Lidar/Camera | https://scale.com/resources/download/pandaset |
 [2] This data can be freely used with one restriction: In case it is used for scientific publication
 you are required to cite the article "Velodyne SLAM" of Moosmann et al
 

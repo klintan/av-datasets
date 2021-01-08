@@ -18,9 +18,9 @@ Data is mostly considered one of the most valuable things for a robotic company,
 
 |  Dataset | License  |  Annotations | Year  |  Link |
 |---|---|---|---|---|
-|  Caltech Pedestrian detection |  CC4.0 | Pedestrian bbox  |   |  http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/index.html |
+| Caltech Pedestrian detection |  CC4.0 | Pedestrian bbox  |   |  http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/index.html |
 | GM-ATCI Rear-view pedestrians  | CC4.0/MIT [1] |   |   |  https://sites.google.com/site/rearviewpeds1/ |
-|  SullyChen AutoPilot Dataset |  MIT | Steering angle  |   |  https://github.com/SullyChen/Autopilot-TensorFlow |
+| SullyChen AutoPilot Dataset |  MIT | Steering angle  |   |  https://github.com/SullyChen/Autopilot-TensorFlow |
 | COCO  | CC4.0  |  Segmentation |   | http://cocodataset.org/  |
 | Self driving car data | CC0 | None | | https://www.kaggle.com/ajaysh/self-driving-car | 
 | CSAIL LabelMe dataset | CC0 (with attribution) | Segmentation | |http://labelme2.csail.mit.edu/Release3.0/browserTools/php/publications.php |
